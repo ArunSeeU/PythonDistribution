@@ -1,0 +1,5 @@
+else:
+
+virtual_map = VirtualNodeMap(node_names, TOTAL_VIRTUAL_NODES)
+virtual_map.get_assigned_node(key)
+

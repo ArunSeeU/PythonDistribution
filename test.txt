@@ -1,0 +1,23 @@
+jenkins:
+https://github.com/RAHAMSHAIK007/jenkins-java-project.git
+
+listener 1883 0.0.0.0
+allow_anonymous false
+
+moganti.teja369@gmail.com	
+psw : sundarr@369
+
+
+
+fastest
+easiest
+most effordable way of running project
+
+services and instances
+
+1. virtual servers
+2. manage databases
+3. load balancers
+4. networking
+5. monetoring
+6. alarms
